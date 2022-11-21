@@ -6,10 +6,21 @@
     - VULHUB开源网络安全威胁库: http://vulhub.org.cn/view/global
     - 网安漏洞平台: https://vul.wangan.com/
     - 国家区块链漏洞库: https://bc.cnvd.org.cn/
+
+  - 情报分析:
+    - 微步在线X情报 : https://x.threatbook.com/
+    - 深信服威胁情报中心 : https://ti.sangfor.com.cn/analysis-platform
+    - 360威胁情报中心 : https://ti.360.net/
+    - VirusTotal : https://www.virustotal.com/gui/home/upload
+    - Any.Run : https://any.run/
+
+
   - MD5工具:
-    - cmd5: https://www.cmd5.org/
+    - Cmd5: https://www.cmd5.org/
     - 查md5啦: https://cmd5.la/
     - SOMD5: https://www.somd5.com/
+
+
 
 
 工具:
@@ -17,9 +28,13 @@
     - NMAP: 
       - https://nmap.org/
       - 探测存活主机以及开放的端口等
-  
+
+其他:
+  - 影视网站:
+    - NO视频 – 不负追剧好时光 : https://www.novipnoad.com/
 
 文章:
   - 工控安全:
     - 标准解读丨GB/T 20984-2022《信息安全技术 信息安全风险评估方法》: https://www.6cloudtech.com/portal/article/index/id/758/cid/3.html
+
 
