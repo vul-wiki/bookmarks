@@ -1,15 +1,25 @@
-Example-Collection:
-  - Bucket:
-    - Link 1: https://example.com
-    - Link 2:
-      - https://example.com
-    - Link with notes:
-      - https://example.com
-      - This is a text note
-      - Link note: https://example.com
+书签:
+  - 漏洞库:
+    - Exploit Database : https://www.exploit-db.com/
+    - 阿里云漏洞库: https://avd.aliyun.com/
+    - 国家信息安全漏洞库: https://www.cnnvd.org.cn/home/childHome
+    - VULHUB开源网络安全威胁库: http://vulhub.org.cn/view/global
+    - 网安漏洞平台: https://vul.wangan.com/
+    - 国家区块链漏洞库: https://bc.cnvd.org.cn/
+  - MD5工具:
+    - cmd5: https://www.cmd5.org/
+    - 查md5啦: https://cmd5.la/
+    - SOMD5: https://www.somd5.com/
 
-Collection with Links:
-  - static-marks:
-    - static-marks repository: https://github.com/darekkay/static-marks
-    - github-pages as template-project: https://gaerfield.github.io/static-marks-github-pages
-    - docker-template as alternative: https://github.com/gaerfield/static-marks-docker
+
+工具:
+  - 黑客工具:
+    - NMAP: 
+      - https://nmap.org/
+      - 探测存活主机以及开放的端口等
+  
+
+文章:
+  - 工控安全:
+    - 标准解读丨GB/T 20984-2022《信息安全技术 信息安全风险评估方法》: https://www.6cloudtech.com/portal/article/index/id/758/cid/3.html
+
