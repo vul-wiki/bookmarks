@@ -6,6 +6,7 @@
     - VULHUB开源网络安全威胁库: http://vulhub.org.cn/view/global
     - 网安漏洞平台: https://vul.wangan.com/
     - 国家区块链漏洞库: https://bc.cnvd.org.cn/
+    
 
   - 情报分析:
     - 微步在线X情报 : https://x.threatbook.com/
@@ -13,6 +14,7 @@
     - 360威胁情报中心 : https://ti.360.net/
     - VirusTotal : https://www.virustotal.com/gui/home/upload
     - Any.Run : https://any.run/
+    - MistTrack - 适合所有人的加密货币跟踪和合规平台 : https://misttrack.io
 
 
   - MD5工具:
@@ -23,9 +25,19 @@
   - 匿名工具:
     - Fake Mail Generator : http://www.fakemailgenerator.com/#/gustr.com/service/
     - Temp Mail : temp-mail.org
-    - 虚拟币（XMR）:
-      - ChangeNow加密货币兑换 : https://changenow.io/zh
-  
+   
+  - 虚拟币承兑:
+     - （XMR）ChangeNow加密货币兑换 : https://changenow.io/zh
+     
+  - 社工库:
+    - 
+     
+书籍收藏:
+  - Python:
+    - web.py 0.3 新手指南 (web.py) : webpy.org/tutorial3.zh-cn
+  - 中医:
+    - 《天纪》 01 附PDF文件讲义1080p 倪海厦- YouTube : https://www.youtube.com/watch?v=Jii5_KjHC20
+
 工具下载:
   - 黑客工具:
     - NMAP: 
@@ -36,7 +48,7 @@
   - 影视网站:
     - NO视频 – 不负追剧好时光 : https://www.novipnoad.com/
 
-文章收藏:
+精选好文:
   - 工控安全:
     - 标准解读丨GB/T 20984-2022《信息安全技术 信息安全风险评估方法》: https://www.6cloudtech.com/portal/article/index/id/758/cid/3.html
     - 工业互联网安全备受关注，防御体系该如何建设？: https://www.51cto.com/article/702852.html
