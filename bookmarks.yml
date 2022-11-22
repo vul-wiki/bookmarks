@@ -1,4 +1,4 @@
-书签:
+常用书签:
   - 漏洞库:
     - Exploit Database : https://www.exploit-db.com/
     - 阿里云漏洞库: https://avd.aliyun.com/
@@ -20,10 +20,13 @@
     - 查md5啦: https://cmd5.la/
     - SOMD5: https://www.somd5.com/
 
-
-
-
-工具:
+  - 匿名工具:
+    - Fake Mail Generator : http://www.fakemailgenerator.com/#/gustr.com/service/
+    - Temp Mail : temp-mail.org
+    - 虚拟币（XMR）:
+      - ChangeNow加密货币兑换 : https://changenow.io/zh
+  
+工具下载:
   - 黑客工具:
     - NMAP: 
       - https://nmap.org/
@@ -33,7 +36,7 @@
   - 影视网站:
     - NO视频 – 不负追剧好时光 : https://www.novipnoad.com/
 
-文章:
+文章收藏:
   - 工控安全:
     - 标准解读丨GB/T 20984-2022《信息安全技术 信息安全风险评估方法》: https://www.6cloudtech.com/portal/article/index/id/758/cid/3.html
     - 工业互联网安全备受关注，防御体系该如何建设？: https://www.51cto.com/article/702852.html
