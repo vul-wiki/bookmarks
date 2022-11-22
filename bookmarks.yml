@@ -1,12 +1,11 @@
 常用书签:
   - 漏洞库:
-    - Exploit Database : https://www.exploit-db.com/
-    - 阿里云漏洞库: https://avd.aliyun.com/
     - 国家信息安全漏洞库: https://www.cnnvd.org.cn/home/childHome
+    - 阿里云漏洞库: https://avd.aliyun.com/
     - VULHUB开源网络安全威胁库: http://vulhub.org.cn/view/global
     - 网安漏洞平台: https://vul.wangan.com/
     - 国家区块链漏洞库: https://bc.cnvd.org.cn/
-    
+    - Exploit Database : https://www.exploit-db.com/
 
   - 情报分析:
     - 微步在线X情报 : https://x.threatbook.com/
@@ -14,11 +13,11 @@
     - 360威胁情报中心 : https://ti.360.net/
     - VirusTotal : https://www.virustotal.com/gui/home/upload
     - Any.Run : https://any.run/
-    - MistTrack - 适合所有人的加密货币跟踪和合规平台 : https://misttrack.io
+    - MistTrack - 加密货币跟踪和合规平台 : https://misttrack.io
 
 
   - MD5工具:
-    - Cmd5: https://www.cmd5.org/
+    - cmd5: https://www.cmd5.org/
     - 查md5啦: https://cmd5.la/
     - SOMD5: https://www.somd5.com/
 
