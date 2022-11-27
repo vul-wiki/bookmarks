@@ -26,7 +26,6 @@ jobs:
           npm install static-marks
           mkdir build
           cp 404.html build/404.html
-          cp favicon.ico build/favicon.ico
           ./node_modules/.bin/static-marks build --title "VUL.WIKI‘s Bookmarks" --template-file template.html *.yml > build/index.html 
 
       - name: Deploy 🚀
