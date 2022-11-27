@@ -26,7 +26,7 @@ jobs:
           npm install static-marks
           mkdir build
           cp 404.html build/404.html
-          ./node_modules/.bin/static-marks build --title VUL.WIKI‘s Bookmarks --template-file template.html *.yml > build/index.html 
+          ./node_modules/.bin/static-marks build --title "VUL.WIKI‘s Bookmarks" --template-file template.html *.yml > build/index.html 
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
