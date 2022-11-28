@@ -11,11 +11,35 @@
     - 微步在线X情报 : https://x.threatbook.com/
     - 深信服威胁情报中心 : https://ti.sangfor.com.cn/analysis-platform
     - 360威胁情报中心 : https://ti.360.net/
+    - 安恒威胁分析平台 : https://ti.dbappsecurity.com.cn/
+    - 奇安信威胁情报中心 : https://ti.qianxin.com/
+    - RedQueen安全智能服务平台 : https://redqueen.tj-un.com/IntelHome.html
+    - 绿盟威胁情报中心（NTI）: https://nti.nsfocus.com/
+    - 微步在线云沙箱 : https://s.threatbook.com/
+    - 腾讯哈勃分析系统 : https://habo.qq.com/
+    - 魔盾安全分析 | 免费在线病毒分析平台 :https://www.maldun.com/analysis/
+    - 奇安信情报沙箱 : https://sandbox.ti.qianxin.com/sandbox/page
+    - VenusEye威胁情报中心 : https://www.venuseye.com.cn/
+    - IBM X-Force Exchange : https://exchange.xforce.ibmcloud.com/
     - VirusTotal : https://www.virustotal.com/gui/home/upload
+    - ISC SANS威胁检测: https://isc.sans.edu/
+    - ThreatMiner.org | 威胁情报数据挖掘: https://www.threatminer.org/
     - Any.Run : https://any.run/
+    - 免费的自动化恶意软件分析服务 : https://www.hybrid-analysis.com/
+    - CAPE Sandbox : 
+    	- https://capesandbox.com/
+    	- 国外沙盒网站，需要注册
+    - 沙盒-Joe Sandbox Cloud Basic:https://www.joesandbox.com/
     - MistTrack - 加密货币跟踪和合规平台 : https://misttrack.io/
     - OSINT-Labs中国开源情报实验室 : https://www.osint-labs.org/
     
+  
+  - 渗透测试
+  	- 提权辅助网页 Windows提权辅助 : https://i.hacking8.com/tiquan/
+  	- windows-kernel-exploits Windows平台提权漏洞集合 : https://github.com/SecWiki/windows-kernel-exploits
+  	- linux-kernel-exploits Linux平台提权漏洞集合 : https://github.com/SecWiki/linux-kernel-exploits
+  	- Windows提权漏洞合集 : https://github.com/Ascotbe/Kernelhub
+  	- 自动化Linux权限提升工具 : https://github.com/liamg/traitor 
   - 社交论坛:
     - T00ls | 低调求发展 - 潜心习安全 : https://www.t00ls.com/index.php
     - Reddit - Dive into anything : https://www.reddit.com/
