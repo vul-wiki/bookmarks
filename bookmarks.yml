@@ -35,6 +35,12 @@
     - VirusTotal : https://www.virustotal.com/gui/home/upload
     - VirScan - 多引擎文件在线检测平台 : https://www.virscan.org/
 
+  - 知识库:
+    - 常见漏洞知识库文档 : https://vulwiki.readthedocs.io/
+    - Hacking8 安全知识库 : https://www.hacking8.com/repository
+    - Micro8 系列文章 : micro8.gitbook.io/micro8/
+    - 各大漏洞文库合集 : https://github.com/cckuailong/vulbase
+    - Wooyun知识库 : https://wooyun.kieran.top/#!/
 
   - 渗透测试:
     - 提权辅助网页-Windows提权辅助 : https://i.hacking8.com/tiquan/
